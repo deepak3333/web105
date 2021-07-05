@@ -1,0 +1,35 @@
+    .site-section {
+        padding: 1.5em 0;
+    }
+    
+    .container {
+        max-width: 340px;
+        min-width: 376px;
+    }
+    
+    .container {
+        width: 80%;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    
+    .mb-4,
+    .mb-4 {
+        margin-bottom: 1rem !important;
+    }
+    
+    .step1 {
+        float: left;
+        border: 1px solid #ccc;
+        width: 10%;
+        height: 100%;
+    }
